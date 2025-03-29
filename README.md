@@ -2,6 +2,8 @@
 
 Your Intelligent AI Companion for Natural Conversations and Creative Image Generation
 
+**Live Deployment:** [MindMate AI](https://mindmate-ai-chatbot.vercel.app/)
+
 ---
 
 ## ChatBot 🤖
