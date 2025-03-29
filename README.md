@@ -8,7 +8,7 @@ Your Intelligent AI Companion for Natural Conversations and Creative Image Gener
 
 Connect with your AI friend anytime for a delightful chat experience!
 
----
+--- 
 
 ## Interface 🎨
 
